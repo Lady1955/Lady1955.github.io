@@ -2,3 +2,13 @@ img {
   width: 400px;
   height: auto;
 }
+
+.container{
+  width:1200px;
+}
+
+.navbar-menu{
+  display: inline-block;
+  margin:80px 60px;
+  font-size:18px;
+}
